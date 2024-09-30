@@ -24,3 +24,6 @@ This project is licensed under the MIT License.
 
 ## VIDEO
 https://video.anugrahbimantara.my.id/videos/puzzle.mp4
+
+![image](https://github.com/user-attachments/assets/d9550910-291f-4df4-b44f-1badbf3e2015)
+
